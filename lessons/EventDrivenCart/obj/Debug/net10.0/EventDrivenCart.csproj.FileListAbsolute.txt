@@ -1,0 +1,14 @@
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\bin\Debug\net10.0\EventDrivenCart.exe
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\bin\Debug\net10.0\EventDrivenCart.deps.json
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\bin\Debug\net10.0\EventDrivenCart.runtimeconfig.json
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\bin\Debug\net10.0\EventDrivenCart.dll
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\bin\Debug\net10.0\EventDrivenCart.pdb
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\obj\Debug\net10.0\EventDrivenCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\obj\Debug\net10.0\EventDrivenCart.AssemblyInfoInputs.cache
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\obj\Debug\net10.0\EventDrivenCart.AssemblyInfo.cs
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\obj\Debug\net10.0\EventDrivenCart.csproj.CoreCompileInputs.cache
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\obj\Debug\net10.0\EventDrivenCart.dll
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\obj\Debug\net10.0\refint\EventDrivenCart.dll
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\obj\Debug\net10.0\EventDrivenCart.pdb
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\obj\Debug\net10.0\EventDrivenCart.genruntimeconfig.cache
+C:\Users\srell\OneDrive - NAIT\Desktop\SDEV\SDEV2351\EventDrivenCart\obj\Debug\net10.0\ref\EventDrivenCart.dll
