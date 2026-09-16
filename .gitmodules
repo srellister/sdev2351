@@ -1,0 +1,3 @@
+[submodule "lessons/massignment1"]
+	path = lessons/massignment1
+	url = https://github.com/SDEV2351-OE01-1261/ma-01-git-branching-workflow-srellister.git
