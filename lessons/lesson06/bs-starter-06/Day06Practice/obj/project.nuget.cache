@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DcGiFbGExYc=",
+  "dgSpecHash": "7RNB9k6i5uM=",
   "success": true,
-  "projectFilePath": "a:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj",
+  "projectFilePath": "A:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srell\\.nuget\\packages\\bysresults\\1.2.3\\bysresults.1.2.3.nupkg.sha512",
     "C:\\Users\\srell\\.nuget\\packages\\fluxor\\6.0.0\\fluxor.6.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj": {}
+    "A:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj": {}
   },
   "projects": {
-    "a:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj": {
+    "A:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj",
+        "projectUniqueName": "A:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj",
         "projectName": "Day06Practice",
-        "projectPath": "a:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj",
+        "projectPath": "A:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\Day06Practice.csproj",
         "packagesPath": "C:\\Users\\srell\\.nuget\\packages\\",
-        "outputPath": "a:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\obj\\",
+        "outputPath": "A:\\SDEV\\2351\\lessons\\lesson06\\bs-starter-06\\Day06Practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
