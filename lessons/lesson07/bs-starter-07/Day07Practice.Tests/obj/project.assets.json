@@ -1470,11 +1470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "a:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice.Tests\\Day07Practice.Tests.csproj",
+      "projectUniqueName": "A:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice.Tests\\Day07Practice.Tests.csproj",
       "projectName": "Day07Practice.Tests",
-      "projectPath": "a:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice.Tests\\Day07Practice.Tests.csproj",
+      "projectPath": "A:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice.Tests\\Day07Practice.Tests.csproj",
       "packagesPath": "C:\\Users\\srell\\.nuget\\packages\\",
-      "outputPath": "a:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice.Tests\\obj\\",
+      "outputPath": "A:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1497,8 +1497,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "a:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice\\Day07Practice.csproj": {
-              "projectPath": "a:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice\\Day07Practice.csproj"
+            "A:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice\\Day07Practice.csproj": {
+              "projectPath": "A:\\SDEV\\2351\\lessons\\lesson07\\bs-starter-07\\Day07Practice\\Day07Practice.csproj"
             }
           }
         }
