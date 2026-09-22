@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CbUpuC6us+A=",
+  "dgSpecHash": "qfFFNrPyk4Q=",
   "success": true,
-  "projectFilePath": "a:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj",
+  "projectFilePath": "A:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srell\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\srell\\.nuget\\packages\\bysresults\\1.2.3\\bysresults.1.2.3.nupkg.sha512",

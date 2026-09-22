@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj": {}
+    "A:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj": {}
   },
   "projects": {
-    "a:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj": {
+    "A:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj",
+        "projectUniqueName": "A:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj",
         "projectName": "Day08Demo",
-        "projectPath": "a:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj",
+        "projectPath": "A:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\Day08Demo.csproj",
         "packagesPath": "C:\\Users\\srell\\.nuget\\packages\\",
-        "outputPath": "a:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\obj\\",
+        "outputPath": "A:\\SDEV\\2351\\lessons\\lesson08\\bs-demo-finished-08\\Day08Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
