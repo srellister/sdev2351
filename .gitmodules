@@ -7,3 +7,30 @@
 [submodule "lessons/lab-1-the-byte-club"]
 	path = lessons/lab-1-the-byte-club
 	url = https://github.com/SDEV2351-OE01-1261/lab-1-the-byte-club
+[submodule "lessons/lesson01"]
+	path = lessons/lesson01
+	url = https://github.com/srellister/sdev2351lesson01
+[submodule "lessons/lesson02"]
+	path = lessons/lesson02
+	url = https://github.com/srellister/sdev2351lesson02
+[submodule "lessons/lesson03"]
+	path = lessons/lesson03
+	url = https://github.com/srellister/sdev2351lesson03
+[submodule "lessons/lesson04"]
+	path = lessons/lesson04
+	url = https://github.com/srellister/sdev2351lesson04
+[submodule "lessons/lesson05"]
+	path = lessons/lesson05
+	url = https://github.com/srellister/sdev2351lesson05
+[submodule "lessons/lesson06"]
+	path = lessons/lesson06
+	url = https://github.com/srellister/sdev2351lesson06
+[submodule "lessons/lesson07"]
+	path = lessons/lesson07
+	url = https://github.com/srellister/sdev2351lesson07
+[submodule "lessons/lesson08"]
+	path = lessons/lesson08
+	url = https://github.com/srellister/sdev2351lesson08
+[submodule "lessons/lesson09"]
+	path = lessons/lesson09
+	url = https://github.com/srellister/sdev2351lesson09

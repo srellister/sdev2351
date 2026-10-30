@@ -1,0 +1,42 @@
+@page "/products"
+
+@* Practice 3: This page is PUBLIC (no [Authorize]).
+   Products are visible to everyone. Your job:
+   1. Add an AuthorizeView that shows a welcome message for logged-in users
+      and a "Log in to edit products" link for anonymous users.
+   2. Add an AuthorizeView inside the Actions column so only logged-in users
+      see the Edit button. *@
+
+<PageTitle>Products</PageTitle>
+
+<h1>Products</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>NAIT Hoodie</td>
+            <td>$49.99</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>Campus Mug</td>
+            <td>$14.99</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td>Notebook Set</td>
+            <td>$8.99</td>
+            <td>
+            </td>
+        </tr>
+    </tbody>
+</table>

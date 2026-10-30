@@ -1,0 +1,38 @@
+@page "/dashboard"
+@* One declarative line gates the ENTIRE page. Since .NET 8 this attribute is also
+   ENDPOINT metadata, so the request for /dashboard is refused in the authentication
+   pipeline before this component renders at all: an anonymous visitor gets a 302 to
+   the provider and no HTML. This is the framework version of Day-7's hand-written
+   OnInitialized route guard -- same intent, no code, and it runs strictly earlier. *@
+@attribute [Authorize]
+
+<PageTitle>Staff Dashboard</PageTitle>
+
+<h1>Staff Dashboard</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Orders Today</h5>
+                <p class="card-text display-4">42</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Low Stock Items</h5>
+                <p class="card-text display-4">7</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Revenue</h5>
+                <p class="card-text display-4">$3,450</p>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "Oidc": {
+    "ClientSecret": "YOUR_CLIENT_SECRET_HERE"
+  }
+}
